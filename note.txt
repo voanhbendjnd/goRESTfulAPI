@@ -1,0 +1,2 @@
+go mod init my-go-api
+go get github.com/gin-gonic/gin
